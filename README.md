@@ -1,5 +1,24 @@
 # Comparing efficacy of different machine learning models to classify cases of breast cancer
 
+## Table of Contents
+- [To Replicate](#to-replicate)
+- [Important Metrics](#important-metrics)
+- Models
+  - [Logistic Regression Model](#logistic-regression-model)
+  - [K-Nearest Neighbors](#k-nearest-neighbors)
+  - [Support Vector Machine](#support-vector-machine)
+  - [Decision Tree Classifier](#decision-tree-classifier)
+  - [Random Forest Classifier](#random-forest-classifier)
+  - [Gradient Boosting](#gradient-boosting)
+  - [Naive Bayes](#naive-bayes)
+  - [Neural Network](#neural-network)
+  - [Adaboost Classifier](#adaboost-classifier)
+  - [Extreme Gradient Boost](#extreme-gradient-boost)
+- [Visualizing the Models](#visualizing-the-models)
+  - [ROC Curves](#roc-curves)
+  - [Precision-Recall Curves](#precision-recall-curves)
+ 
+
 ## To Replicate
 1. Download .ipynb file
 2. Upload to notebook or colab
