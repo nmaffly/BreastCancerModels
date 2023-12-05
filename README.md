@@ -129,17 +129,17 @@ Results from model:
 A Random Forest Classifier is a combination of multiple decision trees. They are good for handling complex relationships in data. They also reduce overfitting and increase model stability.
 
 Confusion matrix:
-| 61 | 2  |
+| 60 | 3  |
 |----|----|
-| **3**  | **105** |
+| **1**  | **107** |
 
 
 Results from model:
-- Precision: 0.97
-- Recall: 0.97  
-- F1 Score: 0.97
-- Accuracy: 0.97
-- AUC Score: 0.996
+- Precision: 0.98
+- Recall: 0.98  
+- F1 Score: 0.98
+- Accuracy: 0.98
+- AUC Score: 0.997
 
 ## Gradient Boosting
 
